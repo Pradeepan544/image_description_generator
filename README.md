@@ -17,10 +17,3 @@ This project allows users to upload an image, and the system will generate a tex
   - `requests` (for API calls)
   - `dotenv` (for managing API keys securely)
 
-## Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/image-description-generator.git
-cd image-description-generator
